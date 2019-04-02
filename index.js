@@ -25,3 +25,5 @@ function square() {
 console.log(square(2, 4, 7.5, 8, 11.5, 21)); // returns: [4, 16, 56.25, 64, 132.25, 441]
 
 console.log("I have added webpack-dev-server");
+
+console.log("This is cool");
