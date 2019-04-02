@@ -12,6 +12,9 @@
     "moment": "^2.24.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5",
     "index.js": "0.0.3",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
